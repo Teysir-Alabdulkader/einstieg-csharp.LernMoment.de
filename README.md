@@ -1,30 +1,6 @@
-Agency Jekyll theme
-====================
+Einstieg C# - Landing Page
+===========================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Landing Page für den Online Kurs [Einstieg in C# - Software programmieren wie ein Profi](http://www.lernmoment.de/einstieg-csharp/) von LernMoment.
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Dieses Seite verwendet das Agency theme von [Rick K. aka y7kim](https://github.com/y7kim/agency-jekyll-theme) für Jekyll, welches auf dem [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/) basiert.
