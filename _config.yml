@@ -1,10 +1,18 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://einstieg-csharp.lernmoment.de
+#baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: "C# Online-Kurs"
+email: jan@lernmoment.de
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+locale: de_DE
+logo: site-logo.png
+search: true
+
+timezone: Europe/Berlin
+future: false
+comments: true
 
 # Color settings (hex-codes without the leading hash-tag)
 color:

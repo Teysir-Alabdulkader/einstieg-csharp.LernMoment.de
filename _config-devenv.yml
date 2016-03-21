@@ -1,0 +1,2 @@
+# adapt configuration to development environment within docker
+url: http://192.168.99.100:4000
